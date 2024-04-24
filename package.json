@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "private": true,
+  "name": "remix-trilio-clone",
+  "private": false,
   "sideEffects": false,
   "type": "module",
   "scripts": {
